@@ -1,0 +1,19 @@
+{
+  "login": [
+    {
+      "id": "1",
+      "username": "u",
+      "token": "fake-token-123"
+    },
+    {
+      "username": "u",
+      "password": "p",
+      "id": "nP4dsVql5P0"
+    }
+  ],
+  "profile": {
+    "name": "Alice",
+    "age": 18
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}

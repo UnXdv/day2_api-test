@@ -1,0 +1,80 @@
+2026-10-10 17:12:12,223 [INFO] 请求GEThttps://jsonplaceholder.typicode.com/posts | params=None | json=None
+2026-10-10 17:12:13,164 [INFO] 响应200 | body=[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate p
+2026-10-10 17:12:13,166 [INFO] 请求POSThttps://jsonplaceholder.typicode.com/posts | params=None | json={'title': 't', 'body': 'b', 'userId': '1'}
+2026-10-10 17:12:13,431 [INFO] 响应201 | body={
+  "title": "t",
+  "body": "b",
+  "userId": "1",
+  "id": 101
+}
+2026-10-10 17:14:08,787 [INFO] 请求GEThttps://jsonplaceholder.typicode.com/posts | params=None | json=None
+2026-10-10 17:14:09,930 [INFO] 响应200 | body=[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate p
+2026-10-10 17:14:09,932 [INFO] 请求POSThttps://jsonplaceholder.typicode.com/posts | params=None | json={'title': 't', 'body': 'b', 'userId': '1'}
+2026-10-10 17:14:10,210 [INFO] 响应201 | body={
+  "title": "t",
+  "body": "b",
+  "userId": "1",
+  "id": 101
+}
+2026-10-10 17:22:35,666 [INFO] 请求GEThttps://jsonplaceholder.typicode.com/posts | params=None | json=None
+2026-10-10 17:22:36,424 [INFO] 响应200 | body=[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate p
+2026-10-10 17:22:36,425 [INFO] 请求POSThttps://jsonplaceholder.typicode.com/posts | params=None | json={'title': 't', 'body': 'b', 'userId': '1'}
+2026-10-10 17:22:36,728 [INFO] 响应201 | body={
+  "title": "t",
+  "body": "b",
+  "userId": "1",
+  "id": 101
+}
+2026-10-10 17:48:53,195 [INFO] 请求GEThttps://jsonplaceholder.typicode.com/posts | params=None | json=None
+2026-10-10 17:48:53,850 [INFO] 响应200 | body=[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "qui est esse",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate p
+2026-10-10 17:48:53,851 [INFO] 请求POSThttps://jsonplaceholder.typicode.com/posts | params=None | json={'title': 't', 'body': 'b', 'userId': '1'}
+2026-10-10 17:48:54,115 [INFO] 响应201 | body={
+  "title": "t",
+  "body": "b",
+  "userId": "1",
+  "id": 101
+}
